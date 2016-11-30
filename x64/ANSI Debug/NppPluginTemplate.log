@@ -1,0 +1,9 @@
+﻿  NppPluginDemo.cpp
+  PluginDefinition.cpp
+c:\users\杨逸云\desktop\notepad ++ 64位开发\nppplugintemplate\menuCmdID.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\Users\杨逸云\Desktop\notepad ++ 64位开发\NppPluginTemplate\x64\ANSI Debug\NppPluginTemplate.dll) does not match the Linker's OutputFile property value (C:\Users\杨逸云\Desktop\notepad ++ 64位开发\NppPluginTemplate\x64\ANSI Debug\NppPluginTemplate_DebugA.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(NppPluginTemplate) does not match the Linker's OutputFile property value (NppPluginTemplate_DebugA). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+    正在创建库 C:\Users\杨逸云\Desktop\notepad ++ 64位开发\NppPluginTemplate\x64\ANSI Debug\NppPluginTemplate.lib 和对象 C:\Users\杨逸云\Desktop\notepad ++ 64位开发\NppPluginTemplate\x64\ANSI Debug\NppPluginTemplate.exp
+  NppPluginTemplate.vcxproj -> C:\Users\杨逸云\Desktop\notepad ++ 64位开发\NppPluginTemplate\x64\ANSI Debug\NppPluginTemplate.dll
+  NppPluginTemplate.vcxproj -> C:\Users\杨逸云\Desktop\notepad ++ 64位开发\NppPluginTemplate\x64\ANSI Debug\NppPluginTemplate.pdb (Full PDB)
